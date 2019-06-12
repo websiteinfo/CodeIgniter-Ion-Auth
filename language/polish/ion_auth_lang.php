@@ -46,7 +46,7 @@ $lang['deactivate_successful'] 				 = 'Konto zostało deaktywowane';
 $lang['deactivate_unsuccessful'] 			 = 'Nie można deaktywować konta';
 $lang['activation_email_successful'] 		 = 'Na twój adres E-mail został wysłany link aktywacyjny';
 $lang['activation_email_unsuccessful'] 		 = 'Nie można wysłać linku aktywacyjnego';
-$lang['deactivate_current_user_unsuccessful']= 'You cannot De-Activate your self.';
+$lang['deactivate_current_user_unsuccessful']= 'Nie możesz się sam deaktywować.';
 
 // Login / Logout
 $lang['login_successful'] 					 = 'Użytkownik został pomyślnie zalogowany';
