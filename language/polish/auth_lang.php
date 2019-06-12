@@ -38,7 +38,7 @@ $lang['index_status_th']         = 'Status';
 $lang['index_action_th']         = 'Akcja';
 $lang['index_active_link']       = 'Aktywny';
 $lang['index_inactive_link']     = 'Nieaktywny';
-$lang['index_create_user_link']  = 'Utwórz nowego użykownika';
+$lang['index_create_user_link']  = 'Utwórz nowego użytkownika';
 $lang['index_create_group_link'] = 'Utwórz nową grupę';
 
 // Deactivate User
@@ -130,7 +130,7 @@ $lang['change_password_validation_new_password_confirm_label'] = 'Potwierdź now
 
 // Forgot Password
 $lang['forgot_password_heading']                 = 'Przypomnienie hasła';
-$lang['forgot_password_subheading']              = 'Proszę wprowadź swój %s ayśmy mogli wysłać Ci email do zresetowania hasła.';
+$lang['forgot_password_subheading']              = 'Proszę wprowadź swój %s abyśmy mogli wysłać Ci email do zresetowania hasła.';
 $lang['forgot_password_email_label']             = '%s:';
 $lang['forgot_password_submit_btn']              = 'Wyślij';
 $lang['forgot_password_validation_email_label']  = 'Adres email';
@@ -149,11 +149,11 @@ $lang['reset_password_validation_new_password_confirm_label'] = 'Potwierdź nowe
 
 // Activation Email
 $lang['email_activate_heading']    = 'Aktywuj konto dla %s';
-$lang['email_activate_subheading'] = 'Proszę klilknąć na link aby %s.';
+$lang['email_activate_subheading'] = 'Proszę kliknąć na link aby %s.';
 $lang['email_activate_link']       = 'Aktywuj nowe konto';
 
 // Forgot Password Email
 $lang['email_forgot_password_heading']    = 'Zresetuj hasło dla %s';
-$lang['email_forgot_password_subheading'] = 'Proszę klilknąć na link aby %s.';
+$lang['email_forgot_password_subheading'] = 'Proszę kliknąć na link aby %s.';
 $lang['email_forgot_password_link']       = 'Resetuj hasło';
 
