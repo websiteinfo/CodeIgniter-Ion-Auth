@@ -22,7 +22,7 @@
 $lang['login_heading']         = 'Login';
 $lang['login_subheading']      = 'Zaloguj się poniżej używając email/username oraz hasła.';
 $lang['login_identity_label']  = 'Nazwa użytkownika:';
-$lang['login_password_label']  = 'Hało:';
+$lang['login_password_label']  = 'Hasło:';
 $lang['login_remember_label']  = 'Pamiętaj mnie:';
 $lang['login_submit_btn']      = 'Login';
 $lang['login_forgot_password'] = 'Zapomniałeś hasła?';
@@ -84,7 +84,7 @@ $lang['edit_user_email_label']            			 = 'Email:';
 $lang['edit_user_phone_label']            			 = 'Telefon:';
 $lang['edit_user_password_label']         			 = 'Hasło (jeśli zmieniasz hasło)';
 $lang['edit_user_password_confirm_label'] 			 = 'Potwierdź hasło: (jeśli zmieniasz hasło)';
-$lang['edit_user_groups_heading']        		     = 'Czlonek grupy';
+$lang['edit_user_groups_heading']        		     = 'Członek grupy';
 $lang['edit_user_submit_btn']             			 = 'Zapisz użytkownika';
 $lang['edit_user_validation_phone_label']            = 'Telefon';
 $lang['edit_user_validation_fname_label']            = 'Imię';
